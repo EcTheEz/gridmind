@@ -7,7 +7,6 @@ import { Optimisation } from './pages/Optimisation';
 import { Impact } from './pages/Impact';
 import { About } from './pages/About';
 
-
 export default function App() {
   return (
     <BrowserRouter
